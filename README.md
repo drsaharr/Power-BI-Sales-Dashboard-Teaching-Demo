@@ -1,4 +1,4 @@
-This repository presents a Sales Dashboard developed in Power BI as part of an educational demonstration for Business Intelligence training This repository presents a Sales Dashboard developed in Power BI as part of an educational demonstration for Business Intelligence training at Shahid Beheshti University.
+This repository presents a Sales Dashboard developed in Power BI as part of an educational demonstration for Business Intelligence training at Shahid Beheshti University.
 
 Key Features
 
