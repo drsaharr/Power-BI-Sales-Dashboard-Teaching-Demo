@@ -29,31 +29,3 @@ Technologies
 
 ●	Data Modeling
 
-Key Features
-
-●	Interactive Sales Dashboard
-
-●	Data Modeling
-
-●	Power Query (ETL)
-
-●	DAX Measures
-
-●	KPI Cards
-
-●	Sales Trend Analysis
-
-●	Category Performance Analysis
-
-●	Geographic Sales Visualization
-
-●	Interactive Slicers and Filters
-Technologies
-
-●	Microsoft Power BI
-
-●	Power Query
-
-●	DAX
-
-●	Data Modeling
